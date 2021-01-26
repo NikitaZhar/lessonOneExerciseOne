@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xgK-ci-9Hw">
-                                <rect key="frame" x="15" y="59" width="360" height="372.66666666666669"/>
+                                <rect key="frame" x="15" y="59" width="360" height="370.66666666666669"/>
                                 <color key="backgroundColor" red="0.0" green="0.97801083330000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4CZ-4r-hXg">
-                                <rect key="frame" x="15" y="437.66666666666674" width="360" height="372.33333333333326"/>
+                                <rect key="frame" x="15" y="439.66666666666674" width="360" height="370.33333333333326"/>
                                 <color key="backgroundColor" red="0.9993599057" green="0.14970120789999999" blue="0.0082355923949999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                         </subviews>
@@ -29,7 +29,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="xgK-ci-9Hw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="9XX-PU-1LW"/>
-                            <constraint firstItem="4CZ-4r-hXg" firstAttribute="top" secondItem="xgK-ci-9Hw" secondAttribute="bottom" constant="6" id="AgJ-bs-KRj"/>
+                            <constraint firstItem="4CZ-4r-hXg" firstAttribute="top" secondItem="xgK-ci-9Hw" secondAttribute="bottom" constant="10" id="AgJ-bs-KRj"/>
                             <constraint firstItem="4CZ-4r-hXg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="K35-x0-KPK"/>
                             <constraint firstItem="xgK-ci-9Hw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="XKi-ao-IlW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="4CZ-4r-hXg" secondAttribute="bottom" id="guX-u5-hLz"/>
